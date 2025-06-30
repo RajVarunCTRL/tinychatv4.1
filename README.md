@@ -1,4 +1,4 @@
-# About The Project:
+# About The Project
 This real-time chat application moderates and filters obscene content using HTML, CSS, JavaScript, React.js, Express, Node.js, and Socket.IO. It leverages the EdenAI API to effectively moderate text and images, with additional support for video content.
 
 Through this project, we honed our skills in full-stack development, teamwork, and project management.
